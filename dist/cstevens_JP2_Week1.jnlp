@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="cstevens_JP2_Week1.jnlp">
+  <information>
+    <title>cstevens_JP2_Week1</title>
+    <vendor>chad</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="cstevens_JP2_Week1.jar" size="9946" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="cstevens_JP2_Week1" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="cstevens_jp2_week1.Cstevens_JP2_Week1"  name="cstevens_JP2_Week1" />
+  <update check="always"/>
+</jnlp>
