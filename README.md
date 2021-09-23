@@ -1,4 +1,4 @@
-# mailing-list-nonop
+# crooked-creek-mailing-list-nonop
 A non-operational mailing list GUI using JavaFX.
 
 ## Requirements
