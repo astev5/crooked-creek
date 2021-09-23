@@ -1,4 +1,4 @@
-# crooked-creek-mailing-list-nonop
+# Crooked Creek Canoeing Company Mailing List
 A non-operational mailing list GUI using JavaFX.
 
 ## Requirements
